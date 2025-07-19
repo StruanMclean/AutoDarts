@@ -8,3 +8,5 @@ To run you will need to make a frontend ui which connects to the FastAPI websock
 You will also need to train a ai model with detectron 2 I will include the training code.
 
 AI training code is in autodarts_training.ipynb. 
+
+I also wrote in more detail how this works. In the repo its called paper.pdf
