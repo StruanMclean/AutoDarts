@@ -10,3 +10,6 @@ You will also need to train a ai model with detectron 2 I will include the train
 AI training code is in autodarts_training.ipynb. 
 
 I also wrote in more detail how this works. In the repo its called paper.pdf
+The paper is not 100% finished and probly will never be hence the [TODO] sections.
+
+Hopfully this project helps anyone wanting to make the same project too.
